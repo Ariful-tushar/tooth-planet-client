@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,700;1,700&display=swap");
+
+.cf-contact-us {
+  background-image: url("https://thearchitecturedesigns.com/wp-content/webp-express/webp-images/uploads/2019/05/13-dental-clinic-interior-design.jpg.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+}
+
+.cf-contact-layer {
+  background-color: rgba(161, 98, 14, 0.432);
+  height: 850px;
+}
+
+.cf-contact-us-text {
+  font-family: "Noto Serif", serif;
+  font-size: 64px;
+  color: rgb(1, 49, 65);
+}

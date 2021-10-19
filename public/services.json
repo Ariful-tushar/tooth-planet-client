@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Consultation",
+    "price": 20,
+    "duration": "1 hr",
+    "img": "https://i.ibb.co/TTmVsxT/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tooth Extraction",
+    "price": 100,
+    "duration": "2 hr",
+    "img": "https://i.ibb.co/XFNvxWt/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Root Canel",
+    "price": 200,
+    "duration": "3 days",
+    "img": "https://i.ibb.co/jZ7zmg5/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portable Denture",
+    "price": 300,
+    "duration": "1 week",
+    "img": "https://i.ibb.co/QQCGqYz/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Permanent Denture",
+    "price": 600,
+    "duration": "1 month",
+    "img": "https://i.ibb.co/c2X1d2D/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Teeth Whitening",
+    "price": 100,
+    "duration": "3 hr",
+    "img": "https://i.ibb.co/VB540MG/6.jpg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ravina",
+    "Title": "Consultant",
+    "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551948731profile.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Shafi",
+    "Title": "Serjon",
+    "img": "https://doctors.fortishealthcare.com/uploads/826b57a5-552e-4305-a1ae-af9926db6598_180521224033/picture/dr%20gagan.png"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Kibria",
+    "Title": "Consultant",
+    "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551959990profile.png"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Minhaj",
+    "Title": "Consultant",
+    "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551949631profile.png"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ashra",
+    "Title": "Serjon",
+    "img": "https://doctors.fortishealthcare.com/uploads/826b57a5-552e-4305-a1ae-af9926db6598_180521224033/picture/dr-rabb-preet-kaur.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Pritom",
+    "Title": "Serjon",
+    "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2020/1/1580445258profile.png"
+  }
+]
