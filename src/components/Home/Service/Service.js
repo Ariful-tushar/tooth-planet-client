@@ -12,10 +12,7 @@ const Service = ({ service }) => {
         <Card.Img variant="top" src={img} />
         <Card.Body>
           <Card.Title>{name}</Card.Title>
-          <Card.Text>
-            This is a longer card with supporting text below as a natural
-            lead-in to additional content. This content is a little bit longer.
-          </Card.Text>
+          <Card.Text>Please go to details page for more information</Card.Text>
         </Card.Body>
         <Link to={`/booking/${id}`} className="p-2">
           <button className="btn btn-primary">Check Details</button>
