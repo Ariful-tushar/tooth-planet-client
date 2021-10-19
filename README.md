@@ -1,16 +1,12 @@
-# Chef's Factory- Cooking School
+# Tooth Planet- Dental Care
 
-> The best cooking school in Bangladesh.
-
-> Be the best Chef in the world.
-
-## [Live Link](https://ariful-tushar-chefs-factory.netlify.app/) of the website
+## [Live Link](https://ariful-tushar-tooth-planet.netlify.app/) of the website
 
 ## Features
 
-- Learn how to make the best reciepes in the world.
-- A best cooking school in the world.
-- Do research on cooking
+- Best dental care in the country
+- All skilled specialists
+- DAll skilled staffs
 
 #### This is build with react so to start this repo in your local environment follow below steps
 
