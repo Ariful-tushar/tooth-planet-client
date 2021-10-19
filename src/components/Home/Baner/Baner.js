@@ -8,17 +8,6 @@ const Baner = () => {
       <Carousel.Item>
         <img
           className="w-100 tp-carousel-img"
-          src="http://www.simpleimageresizer.com/_uploads/photos/695bec06/interior-modern-equipped-dental-office-with-x-ray-monitors-dentist-stomatology-orthodontic-workplace_1_x500.jpg"
-          alt="First slide"
-        />
-        <Carousel.Caption>
-          <h3>World Class Machinaries</h3>
-          <p>Tooth Planet has workd class machinaries</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="w-100 tp-carousel-img"
           src="https://d36zfg4d500s0g.cloudfront.net/cache/images/DT/up/dt/2019/07/New-dental-clinic-to-open-in-Brooklyn-in-2020-1188x668-.jpg"
           alt="Second slide"
         />
