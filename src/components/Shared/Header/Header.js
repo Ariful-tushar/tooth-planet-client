@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <Navbar fixed="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand as={HashLink} to="/home#home">
+          <Navbar.Brand className="tp-brand-name" as={HashLink} to="/home#home">
             Tooth Planet
           </Navbar.Brand>
           <Navbar.Toggle />

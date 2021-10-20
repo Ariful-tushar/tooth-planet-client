@@ -8,12 +8,12 @@ const Baner = () => {
       <Carousel.Item>
         <img
           className="w-100 tp-carousel-img"
-          src="https://d36zfg4d500s0g.cloudfront.net/cache/images/DT/up/dt/2019/07/New-dental-clinic-to-open-in-Brooklyn-in-2020-1188x668-.jpg"
+          src="http://www.simpleimageresizer.com/_uploads/photos/270d6286/Custom-Dental-Clinic-Fitout_1_1920x600.jpg"
           alt="Second slide"
         />
 
         <Carousel.Caption>
-          <h3>Neat and Clean Environment</h3>
+          <h1 className="tp-baner-text">Neat and Clean Environment</h1>
           <p>There is not dirt in the whole hospital</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -25,7 +25,7 @@ const Baner = () => {
         />
 
         <Carousel.Caption>
-          <h3>Comfortable environment</h3>
+          <h3 className="tp-baner-text">Comfortable environment</h3>
           <p>We have a decent comfortable environment</p>
         </Carousel.Caption>
       </Carousel.Item>

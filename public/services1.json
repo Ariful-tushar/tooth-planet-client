@@ -1,1 +1,7 @@
-{}
+{
+  "id": 1,
+  "name": "Consultation",
+  "price": 20,
+  "duration": "1 hr",
+  "img": "https://i.ibb.co/TTmVsxT/1.jpg"
+}

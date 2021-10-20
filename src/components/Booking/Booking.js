@@ -17,7 +17,7 @@ const Booking = () => {
       <div className="my-5 border rounded p-5">
         <img className="w-50" src={service.img} alt="" />
         <h2>Name : {service.name}</h2>
-        <h3>Price: {service.price}</h3>
+        <h3>Price: ${service.price}</h3>
         <h3>Duration: {service.duration}</h3>
       </div>
     </Container>

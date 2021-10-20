@@ -2,37 +2,37 @@
   {
     "id": 1,
     "name": "Dr. Ravina",
-    "Title": "Consultant",
+    "description": "Best dental consultant in the europe. Have 10+ years of experience in dental clinical. We feel proud for his service to our institute!",
     "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551948731profile.png"
   },
   {
     "id": 2,
     "name": "Dr. Shafi",
-    "Title": "Serjon",
+    "description": "Dental sergeon! He has 7+ years experience in dental sergurey! He is good in his serviec!",
     "img": "https://doctors.fortishealthcare.com/uploads/826b57a5-552e-4305-a1ae-af9926db6598_180521224033/picture/dr%20gagan.png"
   },
   {
     "id": 3,
     "name": "Dr. Kibria",
-    "Title": "Consultant",
+    "description": "We feel very proud as we have dr kibria sir with us. All over the country he is te most popular. ",
     "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551959990profile.png"
   },
   {
     "id": 4,
     "name": "Dr. Minhaj",
-    "Title": "Consultant",
+    "description": "Dr minhaj is very talented dental doctor. She is really very good at root canel and teeth extraction",
     "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2019/3/1551949631profile.png"
   },
   {
     "id": 5,
     "name": "Dr. Ashra",
-    "Title": "Serjon",
+    "description": "Ashra is out part timne doctor. She is very talented. She has 13+ years of experience",
     "img": "https://doctors.fortishealthcare.com/uploads/826b57a5-552e-4305-a1ae-af9926db6598_180521224033/picture/dr-rabb-preet-kaur.jpg"
   },
   {
     "id": 6,
     "name": "Dr. Pritom",
-    "Title": "Serjon",
+    "description": "Last but not the least, dr pritom who is a talented doctor in dentisty. We feel proud for his service",
     "img": "https://doctors.fortishealthcare.com/uploads/assets/doctors/2020/1/1580445258profile.png"
   }
 ]
